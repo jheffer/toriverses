@@ -1,0 +1,4 @@
+vector<vector<char> > world(totalRows, vector<char>(totalColumns, ' '));
+
+
+char whatsThere = myMap->survey(x,y);
